@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.buttonBar{
+  background-color: darkcyan;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  padding: 10px;
+  border: none;
+}
+.chartView {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.chart {
+  margin-top: 25vh;
+}
+body {
+  background-color: rgb(233, 233, 233);
+}
